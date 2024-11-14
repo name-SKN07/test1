@@ -1,0 +1,7 @@
+.box {    width: 150px;
+    height: 150px;    border: 1px solid #000;
+    cursor: pointer;    display: flex;
+    margin: 200px auto;
+}
+.active-background {    background-color: #0f0fda;
+}
